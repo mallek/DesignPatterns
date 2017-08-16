@@ -2,7 +2,7 @@ using System;
 
 namespace DesignPatterns
 {
-    public static class Driver
+    public static class OpenClosedPrincipleDriver
     {
         public static void Do()
         {
