@@ -7,7 +7,8 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            OpenClosedPrincipleDriver.Do();
+            //OpenClosedPrincipleDriver.Do();
+            BuilderDriver.Do();
         }
     }
 }
